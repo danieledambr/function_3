@@ -18,4 +18,4 @@ function countNumber(num) {
 }
 
 
-console.log(countNumber(12000));
+countNumber(12000);
